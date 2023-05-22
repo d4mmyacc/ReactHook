@@ -17,6 +17,7 @@ const UseEffectAPI = () => {
 
   return (
     <>
+      <h1>hello world</h1>
       <h2>List of Github users</h2>
       <div className='container fluid mt-5'>
         <div className='row text-center'>
